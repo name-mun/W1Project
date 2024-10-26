@@ -34,3 +34,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+/*
+ 스타일 : 디자인을 중요시한다. 미니멀한 환경과 모든 것을 좋아한다. 계획형이 되고 싶은 P
+ 협업 스타일 : 팀 규칙을 잘 지킴, 의견 적극 피력, 조장 말 잘 따름
+ */
